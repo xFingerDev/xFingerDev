@@ -10,7 +10,7 @@
 
 ## About me
 
-- 💻 Programming since I was 15 (and mastering the art of creating bugs 🐛)
+- 💻 Programming since I was 13 (and mastering the art of creating bugs 🐛)
 - 📖 Learning: English 🇺🇸 and leveling up my coding skills
 - 🎯 Goals: Avoid working and embrace the true nini lifestyle 🏖️😎
 - 🎸 Passions: Coding, building projects, playing guitar 🎶, and of course... dogs 🐕
